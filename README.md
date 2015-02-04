@@ -31,6 +31,20 @@
 - developer.traitify.com
 
 
+#Web components
+
+- Silo ability
+- Native
+- Reduces number of Dom nodes == performance
+
+- shadow Dom = Dom within a Dom - this is what makes components awesome
+- scopes the css within the component (still can explicitly target both ways)
+
+- templates are key to not writing hundreds of lines of boilerplate
+
+- shadow Dom not new used for sliders and other elements in the past
+
+
 # NO MORE (front end css) TOOLS!
 we hate tools, so here's a list of tools???
 - Image optimization
@@ -73,7 +87,7 @@ Its easier to build overcomplicated solutions than to maintain them
   - imply a sense of agency`
   - social behavior, teaching objects to remember you
   - variability better than predictability == personality
- 
+
 - Arduino
   - Node via Johnny5
 - Tessel
